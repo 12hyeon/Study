@@ -1,5 +1,7 @@
 # Practice
 
-JavaProgramming # 명품 JAVA Programming 개정4판/ 황기태, 김효수
+2021. 8월 ~ 12월
+C언어 스터디 활동
 
-C # 동아리 활동
+2021. 3월 ~ 
+전공스터디 : 빅데이터와 머신러닝
